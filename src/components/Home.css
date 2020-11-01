@@ -1,0 +1,19 @@
+.home_card{
+     display: flex;
+     
+}
+.card{
+    background-color: orange;
+    display: flex;
+    border: orange  ;
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+}
+.title{
+    text-align: center;
+    padding: 50px;
+}
+.topic{
+    margin: 15px;
+}
